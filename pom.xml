@@ -5,7 +5,7 @@
     <groupId>org.eclipse.hudson.plugins</groupId>
     <artifactId>hudson-plugin-parent</artifactId>
     <version>3.0.0</version>
-    <relativePath/>
+    <relativePath />
   </parent>
 
   <scm>
@@ -51,7 +51,7 @@
   <groupId>org.hudsonci.plugins</groupId>
   <artifactId>ansicolor</artifactId>
   <packaging>hpi</packaging>
-  <version>0.1.2-h-1-SNAPSHOT</version>
+  <version>0.1.2-h-1</version>
   <name>AnsiColor</name>
   <description>Adds ANSI coloring to the Console Output</description>
   <url>http://wiki.hudson-ci.org/display/HUDSON/AnsiColor+Plugin</url>
